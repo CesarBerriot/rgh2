@@ -10,7 +10,7 @@ Inputs are captured globally, thus Replay Glitch Helper 2 will function without 
 ## Screenshots
 **DO NOTE: The Macintosh appearance presented by the following images is a theme I use on my personal machine. Replay Glitch Helper 2 is Windows software.** \
 ![](screenshots/1.png)
-![](screenshots/1.png)
+![](screenshots/2.png)
 
 ---
 
